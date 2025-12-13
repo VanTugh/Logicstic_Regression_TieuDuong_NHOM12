@@ -1,12 +1,9 @@
-Dưới đây là file `README.md` chi tiết và chuyên nghiệp dành cho dự án của bạn. File này được viết bằng Markdown, bạn có thể lưu lại dưới tên `README.md` để hiển thị đẹp mắt trên Github hoặc nộp kèm báo cáo.
 
------
-
-# 🏥 Dự Đoán Nguy Cơ Mắc Bệnh Tiểu Đường (Diabetes Prediction)
+# Dự Đoán Nguy Cơ Mắc Bệnh Tiểu Đường (Diabetes Prediction)
 
 Dự án này xây dựng một hệ thống Machine Learning để dự đoán khả năng mắc bệnh tiểu đường ở bệnh nhân nữ (trên 21 tuổi) dựa trên các chỉ số y tế lâm sàng. Dự án sử dụng bộ dữ liệu chuẩn **Pima Indians Diabetes** và áp dụng các kỹ thuật xử lý dữ liệu nâng cao, Feature Engineering, và mô hình Ensemble Learning.
 
-## 📋 Mục Lục
+## Mục Lục
 
   - [Giới thiệu](https://www.google.com/search?q=%23gi%E1%BB%9Bi-thi%E1%BB%87u)
   - [Bộ Dữ Liệu](https://www.google.com/search?q=%23b%E1%BB%99-d%E1%BB%AF-li%E1%BB%87u)
