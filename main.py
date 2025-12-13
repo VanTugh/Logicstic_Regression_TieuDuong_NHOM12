@@ -18,7 +18,7 @@ from sklearn.metrics import fbeta_score
 import warnings
 warnings.filterwarnings('ignore')
 
-# Import data
+# Đọc dữ liệu
 url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
 cols = ["Pregnancies", "Glucose", "BloodPressure", "SkinThickness",
         "Insulin", "BMI", "DiabetesPedigreeFunction", "Age", "Outcome"]
