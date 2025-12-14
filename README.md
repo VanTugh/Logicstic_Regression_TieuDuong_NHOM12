@@ -82,7 +82,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn
 
       - Sử dụng `StandardScaler` để đưa dữ liệu về phân phối chuẩn (mean=0, std=1).
 
-## 🤖 Mô Hình & Thuật Toán
+## Mô Hình & Thuật Toán
 
 Dự án triển khai và so sánh các phương pháp sau:
 
