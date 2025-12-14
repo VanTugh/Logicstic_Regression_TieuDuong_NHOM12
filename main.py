@@ -19,7 +19,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Đọc dữ liệu
-url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
+url = "C:/Users/fpt/Desktop/TTNT/pima-indians-diabetes.data.csv"
 cols = ["Pregnancies", "Glucose", "BloodPressure", "SkinThickness",
         "Insulin", "BMI", "DiabetesPedigreeFunction", "Age", "Outcome"]
 data = pd.read_csv(url, header=None, names=cols)
